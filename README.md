@@ -3,7 +3,7 @@
 This is a containr based on [`mediagis/nominatim-docker`](https://github.com/mediagis/nominatim-docker) with 2 differences:
 
 1. It imports US and TIGER data
-2. It is self-contained. In other workds, the huge databse is stored within the container.
+2. It is self-contained. In other words, the huge databse is stored within the container.
 Therefore this container is ~250G and most probably not suitable for most cloud docker hosts.
 
 You would need a machine with ~64GB to build it.
