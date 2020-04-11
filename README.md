@@ -1,4 +1,4 @@
-=== Ready to use Nominatim ===
+### Ready to use Nominatim
 
 This is a containr based on `mediagis/nominatim-docker` with 2 differences:
 
@@ -10,7 +10,7 @@ You would need a machine with ~64GB to build it.
 
 After being built it can be run with smaller resources.
 
-=== Usage ===
+### Usage
 
 1. `docker build -t nominatim .`
 2. _wait for several hours_
