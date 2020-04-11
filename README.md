@@ -1,6 +1,6 @@
 ### Ready to use Nominatim
 
-This is a containr based on [`mediagis/nominatim-docker`](https://github.com/mediagis/nominatim-docker) with 2 differences:
+This is a container based on [`mediagis/nominatim-docker`](https://github.com/mediagis/nominatim-docker) with 2 differences:
 
 1. It imports US and TIGER data
 2. It is self-contained. In other words, the huge databse is stored within the container.
